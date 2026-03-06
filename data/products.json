@@ -1,0 +1,58 @@
+[
+  {
+    "sku": "P001",
+    "name": "Wireless Mouse",
+    "price": 25.99,
+    "cost": 12.5,
+    "stock": 30,
+    "category": "Accessories"
+  },
+  {
+    "sku": "P002",
+    "name": "Mechanical Keyboard",
+    "price": 79.99,
+    "cost": 45.0,
+    "stock": 11,
+    "category": "Accessories"
+  },
+  {
+    "sku": "P003",
+    "name": "27 Inch Monitor",
+    "price": 199.99,
+    "cost": 140.0,
+    "stock": 10,
+    "category": "Displays"
+  },
+  {
+    "sku": "P004",
+    "name": "USB-C Cable",
+    "price": 9.99,
+    "cost": 3.5,
+    "stock": 100,
+    "category": "Cables"
+  },
+  {
+    "sku": "P100",
+    "name": "Gaming Mouse",
+    "price": 49.99,
+    "cost": 25.0,
+    "stock": 12,
+    "category": "Accessories"
+  },
+  {
+    "sku": "P200",
+    "name": "Bluetooth Speaker",
+    "price": 59.99,
+    "cost": 30.0,
+    "stock": 10,
+    "category": "Audio"
+  },
+  {
+    "sku": "P201",
+    "name": "Wireless Headphones",
+    "price": 129.99,
+    "cost": 75.0,
+    "stock": 17,
+    "category": "Audio"
+  }
+]

@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Inventory-Manager
-App for Inventory management
-=======
 📦 Inventory & Sales Management System :
 
 A Python-based Inventory & Sales Management application featuring:
@@ -80,4 +76,3 @@ This separation ensures:
 ▶️ How to Run:
 Bash: uv run main.py
 Web: uv run streamlit run app.py
->>>>>>> e20b90b (Initial commit)

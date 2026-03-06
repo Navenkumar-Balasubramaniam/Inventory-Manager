@@ -1,0 +1,32 @@
+[
+  {
+    "sku": "P100",
+    "quantity": 3,
+    "revenue": 149.97,
+    "datetime": "2026-02-18 23:41:31"
+  },
+  {
+    "sku": "P002",
+    "quantity": 4,
+    "revenue": 319.96,
+    "datetime": "2026-02-18 23:41:54"
+  },
+  {
+    "sku": "116",
+    "quantity": 35,
+    "revenue": 1400.0,
+    "datetime": "2026-02-21 16:24:03"
+  },
+  {
+    "sku": "P200",
+    "quantity": 15,
+    "revenue": 899.85,
+    "datetime": "2026-02-21 22:52:44"
+  },
+  {
+    "sku": "P201",
+    "quantity": 10,
+    "revenue": 1299.9,
+    "datetime": "2026-02-21 22:55:34"
+  }
+]
