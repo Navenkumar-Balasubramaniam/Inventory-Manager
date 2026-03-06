@@ -39,6 +39,7 @@ Interfaces :
  1. Command Line Interface (CLI)
  2. Simple Web UI using Streamlit
 
+```
 🏗 Project Structure
 inventory_manager/
 │
@@ -54,16 +55,17 @@ inventory_manager/
 │   └── sales.json
 │
 └── README.md
+```
 
 🧠 Architecture
 
 The project follows a modular OOP design:
- # Product → Represents a single product
- # Inventory → Manages collection of products
- # SalesManager → Handles sales history and revenue calculations
- # Storage → Manages JSON data persistence
- # main.py → CLI interface
- # app.py → Streamlit UI interface
+ - Product → Represents a single product
+ - Inventory → Manages collection of products
+ - SalesManager → Handles sales history and revenue calculations
+ - Storage → Manages JSON data persistence
+ - main.py → CLI interface
+ - app.py → Streamlit UI interface
 
 This separation ensures:
  1. Clean responsibilities
@@ -80,4 +82,3 @@ This separation ensures:
 ▶️ How to Run:
 Bash: uv run main.py
 Web: uv run streamlit run app.py
->>>>>>> e20b90b (Initial commit)
